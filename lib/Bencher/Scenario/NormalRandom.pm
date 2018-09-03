@@ -8,7 +8,7 @@ use strict;
 use warnings;
 
 our $scenario = {
-    summary => 'Benchmark generating normally distributed normal numbers',
+    summary => 'Benchmark generating normally distributed random numbers',
     description => <<'_',
 
 Each participant generates 1000 random numbers that are normally distributed. If
